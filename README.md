@@ -4,7 +4,8 @@
 
 <hr/>
 
-[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/hayat-tamboli/github-readme-stats)
+[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect with me on :
 
@@ -15,6 +16,7 @@
 ### 👀 visitor count
 
 <img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+
 <!-- - [🌐 Website](https://hayattamboli.vercel.app/) -->
 <!-- - [💼 LinkedIn](https://www.linkedin.com/in/hayat-tamboli/) -->
 <!-- - [🐦 Twitter](https://twitter.com/HayatTamboli) -->
