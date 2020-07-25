@@ -1,5 +1,5 @@
-<h1 style="text-align: center;"> Hi, I am Hayat Tamboli 👋</h1>
-<div style="text-align: center;">
+<h1 align="center" > Hi, I am Hayat Tamboli 👋</h1>
+<div align="center" >
 <img src="hello-world.png" alt="Hello world" />
 </div>
 <hr/>
