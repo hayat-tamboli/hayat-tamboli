@@ -18,8 +18,6 @@ I am a computer science undergrad from Solapur, Maharashtra. Currently I am stud
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my major projects are available at [https://hayattamboli.vercel.app](https://hayattamboli.vercel.app)
-
 - 💬 Ask me about **vue**
 
 - 📫 How to reach me **hayat.tamboli@gmail.com**
@@ -38,7 +36,7 @@ I am a computer science undergrad from Solapur, Maharashtra. Currently I am stud
 <a href="https://fb.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hayattamboli" height="30" width="30" /></a>
 <a href="https://instagram.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hayattamboli" height="30" width="30" /></a>
 <a href="https://dribbble.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hayattamboli" height="30" width="30" /></a>
-<a href="https://medium.com/@hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hayattamboli" height="30" width="30" /></a>
+<!--<a href="https://medium.com/@hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hayat.tamboli" height="30" width="30" /></a>-->
 </p>
 
 ### 👀 visitor count
