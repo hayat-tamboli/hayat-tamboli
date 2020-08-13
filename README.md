@@ -6,8 +6,8 @@
 
 <div align="center">
   
-[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html)
 
 </div>
 
@@ -29,15 +29,18 @@ I am a computer science undergrad from Solapur, Maharashtra. Currently I am stud
 <p align="center">
 <a href="https://hayattamboli.vercel.app/" target="blank"><img align="center" src="https://simpleicons.org/icons/awesomelists.svg" alt="hayattamboli" height="30" width="30" /></a>
 <a href="https://codepen.io/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hayattamboli" height="30" width="30" /></a>
-<a href="https://dev.to/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hayattamboli" height="30" width="30" /></a>
+<!--<a href="https://dev.to/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hayattamboli" height="30" width="30" /></a>-->
 <a href="https://twitter.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hayattamboli" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/hayat-tamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hayat-tamboli" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13782112/hayat-tamboli" height="30" width="30" /></a>
-<a href="https://fb.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hayattamboli" height="30" width="30" /></a>
+<!--<a href="https://fb.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hayattamboli" height="30" width="30" /></a>-->
 <a href="https://instagram.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hayattamboli" height="30" width="30" /></a>
 <a href="https://dribbble.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hayattamboli" height="30" width="30" /></a>
 <!--<a href="https://medium.com/@hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hayat.tamboli" height="30" width="30" /></a>-->
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 👀 visitor count
 
