@@ -9,10 +9,12 @@
 ![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html)
 
+<a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
 
 I am a computer science undergrad from Solapur, Maharashtra. Currently I am studying in VIT Vellore. I am very passionate about __web design__ and __frontend web development__
+
 
 - 🔭 I’m currently working on [Runbhumi](https://github.com/Runbhumi/Runbhumi)
 
