@@ -4,14 +4,24 @@
 
 <hr/>
 
+<details> 
+ <summary> <b>👨‍💻 My programming stats : </b></summary>
+
+<br>
+
 <div align="center">
   
 ![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html)
 
-<a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
+<a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
 
 I am a computer science undergrad from Solapur, Maharashtra. Currently I am studying in VIT Vellore. I am very passionate about __web design__ and __frontend web development__
 
@@ -41,13 +51,7 @@ I am a computer science undergrad from Solapur, Maharashtra. Currently I am stud
 <!--<a href="https://medium.com/@hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hayat.tamboli" height="30" width="30" /></a>-->
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-### 👀 visitor count
+### 👀 visitor count :
 
 <img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
-
-<!-- - [🌐 Website](https://hayattamboli.vercel.app/) -->
-<!-- - [💼 LinkedIn](https://www.linkedin.com/in/hayat-tamboli/) -->
-<!-- - [🐦 Twitter](https://twitter.com/HayatTamboli) -->
