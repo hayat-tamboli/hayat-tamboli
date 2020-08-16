@@ -19,6 +19,44 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-64210%20Lines%20of%20code-blue)
+
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
+🌆 Daytime    78 commits     █████████░░░░░░░░░░░░░░░░   36.79% 
+🌃 Evening    71 commits     ████████░░░░░░░░░░░░░░░░░   33.49% 
+🌙 Night      54 commits     ██████░░░░░░░░░░░░░░░░░░░   25.47%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+💬 Languages: 
+Vue.js                   3 hrs 56 mins       ██████████████████░░░░░░░   72.96% 
+HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78%
+
+```
+
+**I mostly code in Vue** 
+
+```text
+Vue                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+C++                      1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
