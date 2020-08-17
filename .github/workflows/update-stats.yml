@@ -18,7 +18,7 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "TRUE"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
