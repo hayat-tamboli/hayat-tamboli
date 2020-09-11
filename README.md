@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -48,11 +48,11 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       ████████████████░░░░░░░░░   64.75% 
-Vue.js                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.49% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+Vue.js                   1 hr 14 mins        ███████████████████░░░░░░   76.62% 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 ```
 
