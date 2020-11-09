@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -48,11 +48,11 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     3 hrs 41 mins       ██████████████░░░░░░░░░░░   56.71% 
-R                        1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   30.49% 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38%
+Dart                     4 hrs 50 mins       ███████████████░░░░░░░░░░   63.22% 
+R                        1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.9% 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
+Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02%
 
 ```
 
