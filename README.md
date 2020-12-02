@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -48,9 +48,9 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     28 hrs 47 mins      ████████████████████████░   97.97% 
-Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
+Dart                     30 hrs 39 mins      ████████████████████████░   98.09% 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
