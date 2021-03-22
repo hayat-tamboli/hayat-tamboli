@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76608%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76859%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -48,11 +48,11 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     13 hrs 47 mins      ██████████████████████░░░   90.17% 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
-YAML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
+Dart                     13 hrs 47 mins      ███████████████░░░░░░░░░░   61.19% 
+HTML                     5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   22.97% 
+CSS                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+Other                    33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
 
