@@ -76,11 +76,11 @@ R                        3 repos             ███░░░░░░░░�
 I am a computer science undergrad from Solapur, Maharashtra. Currently I am studying in VIT Vellore. I am very passionate about __web design__ and __frontend web development__
 
 
-- 🔭 I’m currently working on [Runbhumi](https://github.com/Runbhumi/Runbhumi)
+- 🔭 I’m currently working on something exciting
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**, **UX design**
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **vue**, **flutter**
 
 - 📫 How to reach me **hayat.tamboli@gmail.com**
 
