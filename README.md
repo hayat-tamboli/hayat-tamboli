@@ -48,7 +48,7 @@ Sunday       151 commits    ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 1 min          █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,6 +65,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
 
 </details>
