@@ -48,7 +48,7 @@ Sunday       149 commits    █████████░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        3 hrs 45 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,7 +65,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2021
+ Last Updated on 18/09/2021
 <!--END_SECTION:waka-->
 
 </details>
