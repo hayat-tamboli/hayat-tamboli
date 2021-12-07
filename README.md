@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145963%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -48,10 +48,10 @@ Sunday       148 commits    ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSX                      32 hrs 39 mins      ████████████████████████░   97.57% 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+JSX                      29 hrs 8 mins       ████████████████████████░   97.81% 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
@@ -69,7 +69,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 </details>
