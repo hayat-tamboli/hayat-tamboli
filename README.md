@@ -48,7 +48,7 @@ Sunday       148 commits    ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSX                      1 hr 46 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,7 +65,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 11/12/2021
 <!--END_SECTION:waka-->
 
 </details>
