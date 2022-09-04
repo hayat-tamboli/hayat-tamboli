@@ -45,15 +45,6 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -88,7 +79,7 @@ I am a computer science undergrad from Solapur, Maharashtra. Currently I am stud
 ## 🔗 Connect with me on :
 
 <p align="center">
-<a href="https://hayattamboli.vercel.app/" target="blank"><img align="center" src="https://simpleicons.org/icons/awesomelists.svg" alt="hayattamboli" height="30" width="30" /></a>
+<a href="https://hayat.design/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="hayat.design" height="30" width="30" /></a>
 <a href="https://codepen.io/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hayattamboli" height="30" width="30" /></a>
 <!--<a href="https://dev.to/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hayattamboli" height="30" width="30" /></a>-->
 <a href="https://twitter.com/hayattamboli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hayattamboli" height="30" width="30" /></a>
