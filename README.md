@@ -19,9 +19,40 @@
 <a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-166%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+🌆 Daytime    99 commits     ████████░░░░░░░░░░░░░░░░░   35.11% 
+🌃 Evening    108 commits    █████████░░░░░░░░░░░░░░░░   38.3% 
+🌙 Night      57 commits     █████░░░░░░░░░░░░░░░░░░░░   20.21%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Thursday     61 commits     █████░░░░░░░░░░░░░░░░░░░░   21.63% 
+Friday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Saturday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Sunday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in Dart** 
 
@@ -36,7 +67,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 02:16:28 UTC
+ Last Updated on 06/09/2022 02:19:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
