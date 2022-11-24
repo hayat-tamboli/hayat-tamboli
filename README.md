@@ -77,7 +77,7 @@ I am a computer science undergrad from Solapur, Maharashtra. Currently I am stud
 
 - 🔭 I’m currently working on something exciting
 
-- 🌱 I’m currently learning **React.js**, **UX design**
+- 🌱 I’m currently learning **Kotlin**, **UX design**
 
 - 💬 Ask me about **vue**, **flutter**, **UI/UX design**
 
