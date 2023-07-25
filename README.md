@@ -48,8 +48,7 @@ Sunday                   974 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 24 mins        █████████████████████████   98.31 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -65,7 +64,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2023 01:21:17 UTC
+ Last Updated on 25/07/2023 01:27:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
