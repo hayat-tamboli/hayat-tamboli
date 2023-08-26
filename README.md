@@ -4,83 +4,19 @@
 
 <hr/>
 
-<details> 
- <summary> <b>👨‍💻 My programming stats : </b></summary>
-
-<br>
-
-<div align="center">
-  
-![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&layout=compact&hide=html)
 
-</div>
 
-<a href="https://stackoverflow.com/users/13782112/hayat-tamboli"><img src="https://stackoverflow.com/users/flair/13782112.png?theme=clean" width="208" height="58" alt="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hayat Tamboli at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2039%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                339 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-🌆 Daytime                2513 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
-🌃 Evening                2294 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌙 Night                  1527 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   880 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Tuesday                  1046 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                1072 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Friday                   915 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Saturday                 997 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Sunday                   1023 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-```
+I am a Computer Science Engineer studying Interaction design at IIT Bombay.
 
 
-📊 **This Week I Spent My Time On** 
+- 🌱 I’m currently learning **How to build Figma Plugins**, **AI in Design**
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Dart** 
-
-```text
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-
-
-
-
- Last Updated on 26/08/2023 01:01:36 UTC
-<!--END_SECTION:waka-->
-
-</details>
-
-I am a computer science undergrad from Solapur, Maharashtra. Currently I am studying in VIT Vellore. I am very passionate about __web design__ and __frontend web development__
-
-
-- 🔭 I’m currently working on something exciting
-
-- 🌱 I’m currently learning **Figma Plugins**, **AI**
-
-- 💬 Ask me about **vue**, **flutter**, **UI/UX design**
+- 💬 Ask me about **Vue 2.0**, **Flutter**, **UX design**
 
 - 📫 How to reach me **hayat.tamboli@gmail.com**
 
-- ⚡ Fun fact **I can solve a rubick's cube under 30 sec**
+- ⚡ Fun fact **I can solve a Rubick's cube in under 30 seconds**
 
 ## 🔗 Connect with me on :
 
