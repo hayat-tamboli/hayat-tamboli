@@ -10,9 +10,9 @@
 I am a Computer Science Engineer studying Interaction design at IIT Bombay.
 
 
-- 🌱 I’m currently learning **How to build Figma Plugins**, **AI in Design**
+- 🌱 I’m currently learning **AI in Design**, **Pocketbase**
 
-- 💬 Ask me about **Vue 2.0**, **Flutter**, **UX design**
+- 💬 Ask me about **Vue 3.0**, **Flutter**, **UX design**, **Arduino**
 
 - 📫 How to reach me **hayat.tamboli@gmail.com**
 
