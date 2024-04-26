@@ -10,9 +10,9 @@
 I am a Computer Science Engineer studying Interaction design at IIT Bombay.
 
 
-- 🌱 I’m currently learning **AI in Design**, **Pocketbase**
+- 🌱 I’m currently learning , **Unity**, **Raspberry Pi**
 
-- 💬 Ask me about **Vue 3.0**, **Flutter**, **UX design**, **Arduino**
+- 💬 Ask me about **Vue 3.0**, **Flutter**, **UX design**, **Arduino**, **Supabase**, **AI in Design**
 
 - 📫 How to reach me **hayat.tamboli@gmail.com**
 
