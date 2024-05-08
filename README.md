@@ -10,7 +10,7 @@
 I am a Computer Science Engineer studying Interaction design at IIT Bombay.
 
 
-- 🌱 I’m currently learning , **Unity**, **Raspberry Pi**
+- 🌱 I’m currently learning **Unity**, **Raspberry Pi**, **Astro**
 
 - 💬 Ask me about **Vue 3.0**, **Flutter**, **UX design**, **Arduino**, **Supabase**, **AI in Design**
 
