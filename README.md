@@ -28,8 +28,3 @@ I am a Computer Science Engineer studying Interaction design at IIT Bombay.
 <a href="https://instagram.com/hayattamboli" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955027.png" alt="hayattamboli" height="48" width="48" /></a>
 <a href="https://dribbble.com/hayattamboli" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" alt="hayattamboli" height="48" width="48" /></a>
 </p>
-
-
-### 👀 visitor count :
-
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
